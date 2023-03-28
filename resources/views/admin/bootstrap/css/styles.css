@@ -1,0 +1,65 @@
+/*!
+ * our style
+ */
+ .users-list > li {
+    width: 14.2% !important;
+}
+.users-list > li img {
+    height: 45px !important;
+}
+.order-table tr td:last-child{
+	text-align: center;
+}
+table tr td{
+	text-transform: capitalize;	
+}
+.stat-ancher, .stat-ancher:hover, .stat-ancher:focus, .stat-ancher:active{
+	color: inherit;
+}
+.notify-colors span {
+    display: inline-block;
+    height: 15px;
+    margin-right: 2px;
+    position: relative;
+    top: 3px;
+    width: 15px;
+}
+.sold-content{
+	background-color: rgba(60,141,188,0.9);
+}
+.purchased-content{
+	background-color: rgb(210, 214, 222);
+	margin-left: 20px;
+}
+.notify-colors {
+    margin: 4px 0 0;
+}
+.specific-user .select2, .specific-user .select2-search__field {
+    width: 100% !important;
+}
+.method-status, .method-status:hover, .method-status:active, .method-status:focus{
+	cursor: pointer;
+	color: inherit;	
+}
+.table-nav a.dropdown-toggle {
+    color: inherit;
+}
+.table-nav ul.dropdown-menu {
+    padding: 2px 0;
+}
+.table-nav .dropdown-menu .divider {
+    height: 1px;
+    margin: 2px 0;
+}
+.android-hide{
+/*		display: none !important;*/
+}
+.ionic-hide{
+		display: none !important;
+}
+.login-logo img{	
+    width: auto;
+    position: relative !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

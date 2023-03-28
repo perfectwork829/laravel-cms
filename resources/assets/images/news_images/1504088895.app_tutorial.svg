@@ -1,0 +1,71 @@
+<svg id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="500" viewBox="0 0 500 500">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #002121;
+      }
+
+      .cls-2 {
+        font-size: 43px;
+        filter: url(#filter);
+        text-anchor: middle;
+        font-family: Roboto;
+        font-weight: 500;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill-rule: evenodd;
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="109" y="343" width="304" height="125" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="151" y="82" width="219" height="238" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="10" dy="17.321" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="4.472"/>
+      <feFlood result="flood" flood-opacity="0.2"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" y="-3" width="500" height="503"/>
+  <text id="App_Tutorial_Intro_Screens" data-name="App Tutorial /  Intro Screens" class="cls-2" x="255.022" y="378.522">App Tutorial / <tspan x="255.022" dy="51.6">Intro Screens</tspan></text>
+  <path id="Forma_1" data-name="Forma 1" class="cls-3" d="M322.891,259.481a4.733,4.733,0,0,1-4.722,4.742H218.1a9.547,9.547,0,0,1-16.663,0h-19.61a4.743,4.743,0,0,1,0-9.485h19.61a9.548,9.548,0,0,1,16.663,0H318.169A4.733,4.733,0,0,1,322.891,259.481ZM340,122.023c0,0.049-.013.1-0.014,0.144s0.014,0.095.014,0.144V278.258A4.732,4.732,0,0,1,335.279,283H164.721A4.732,4.732,0,0,1,160,278.258V122.312c0-.049.013-0.1,0.014-0.144s-0.014-.1-0.014-0.144V101.277A17.259,17.259,0,0,1,177.2,84H322.8A17.259,17.259,0,0,1,340,101.277v20.746Zm-9.443,123.423H169.443v28.071H330.557V245.446Zm-98.3-40.856a4.7,4.7,0,0,0,4.721,0l36.427-21.122a4.754,4.754,0,0,0,0-8.214L236.98,154.129a4.722,4.722,0,0,0-7.082,4.106v42.248A4.745,4.745,0,0,0,232.259,204.59Zm98.3-103.313a7.784,7.784,0,0,0-7.758-7.793H177.2a7.784,7.784,0,0,0-7.758,7.793v16H330.557v-16ZM183.084,99.419a6.643,6.643,0,1,0,6.613,6.643A6.636,6.636,0,0,0,183.084,99.419Zm23.494,0a6.643,6.643,0,1,0,6.613,6.643A6.635,6.635,0,0,0,206.578,99.419Zm23.5,0a6.643,6.643,0,1,0,6.613,6.643A6.635,6.635,0,0,0,230.074,99.419Z"/>
+</svg>
